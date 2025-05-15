@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://www.ramajudicial.gov.co" target="_blank">
           <img src={"./logo.png"} className="logo" alt="Vite logo" />
         </a>
         <a href="https://ramajudicial..gov.co" target="_blank">

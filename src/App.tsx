@@ -18,9 +18,7 @@ function App() {
         <a href="https://www.ramajudicial.gov.co" target="_blank">
           <img src={"./logo.png"} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://ramajudicial..gov.co" target="_blank">
-          <img src={"./logo.png"} className="logo react" alt="React logo" />
-        </a>
+      
       </div>
 
       <h1>DDPD Captcha demo</h1>
